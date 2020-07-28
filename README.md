@@ -1,9 +1,11 @@
-  #                                       🕹  ⌨️  **YouRType**  ⌨️  🕹
-## ◼︎ Typing Speed Test Using Tkinter package in PYTHON ◼︎
+  #                                       🕹   **YouRType**    🕹
 
- ##   ⏳ Instructions for YouRType ⏳
+##      What is YouRType?
+##   👉🏻 Typing Speed Test Using Tkinter package in PYTHON.
 
- ###  📌 How to use:
+##   ⏳ Instructions for YouRType ⏳
+
+ ###  📌 HOW TO USE:
  
 		1. Start typing immediately as you open YouRType.
 	
