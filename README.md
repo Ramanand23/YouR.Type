@@ -3,7 +3,7 @@
  ![Demo](https://github.com/Ramanand23/YouR.Type--Typing-Speed-Test-/blob/master/iconsflow/ezgif.com-gif-maker.gif)
 ##    🔎 What is YouRType?
 
-###  👉🏻 YouRType is a typing speed test program made using Tkinter package in PYTHON.It is useful to measure the typing speed of the user in terms of POOR,AVERAGE & EXCELLENT and has rich set of sentences to do typing practice.
+###  👉🏻 YouRType is a typing speed test program made using Tkinter package in PYTHON.It is useful to measure the typing speed of the user in terms of POOR,AVERAGE & EXCELLENT and has rich set of sentences to do typing practice and learn typing fast.
 
 ##   ⏳    Instructions for YouRType 
 
