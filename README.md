@@ -1,9 +1,9 @@
   #                                       🕹   **YouRType**    🕹
 
 ##      What is YouRType?
-##   👉🏻 Typing Speed Test Using Tkinter package in PYTHON.
+###   👉🏻 Typing Speed Test Using Tkinter package in PYTHON.
 
-##   ⏳ Instructions for YouRType ⏳
+##   ⏳    Instructions for YouRType 
 
  ###  📌 HOW TO USE:
  
