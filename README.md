@@ -1,4 +1,4 @@
-  #                    🏻                     **YouRType**    ⌨️
+  #                                         **YouRType**    ⌨️
  ### 🕹 DEMO  👇
  ![Demo](https://github.com/Ramanand23/YouR.Type--Typing-Speed-Test-/blob/master/iconsflow/ezgif.com-gif-maker.gif)
 ##    🔎 What is YouRType?
