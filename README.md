@@ -1,8 +1,9 @@
-  #                                       🕹   **YouRType**    🕹
-##      What is YouRType?
-####  👉🏻 Typing Speed Test Using Tkinter package in PYTHON.
+  #                                       🕹   **YouRType**    ⌨️
+##     What is YouRType?
 
-###   ⏳    Instructions for YouRType 
+###  👉🏻 YouRType is a typing speed test program made using Tkinter package in PYTHON.It is useful to measure the typing speed of the user in terms of POOR,AVERAGE & EXCELLENT and has rich set of sentences to do typing practice.
+
+##   ⏳    Instructions for YouRType 
 
  ####  📌 HOW TO USE:
  
