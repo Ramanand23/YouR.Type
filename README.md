@@ -1,5 +1,4 @@
   #                                       🕹   **YouRType**    🕹
-![YouRTyp GIF]()
 ##      What is YouRType?
 ####  👉🏻 Typing Speed Test Using Tkinter package in PYTHON.
 
