@@ -1,5 +1,6 @@
-  #                                       🕹   **YouRType**    ⌨️
-![Demo](https://github.com/Ramanand23/YouR.Type--Typing-Speed-Test-/blob/master/iconsflow/Type.gif)
+  #                    🏻                     **YouRType**    ⌨️
+ ### 🕹 DEMO  👇
+ ![Demo](https://github.com/Ramanand23/YouR.Type--Typing-Speed-Test-/blob/master/iconsflow/ezgif.com-gif-maker.gif)
 ##    🔎 What is YouRType?
 
 ###  👉🏻 YouRType is a typing speed test program made using Tkinter package in PYTHON.It is useful to measure the typing speed of the user in terms of POOR,AVERAGE & EXCELLENT and has rich set of sentences to do typing practice.
@@ -8,7 +9,7 @@
 
  ####  📌 HOW TO USE:
  
-		1. Start typing immediately as you open YouRType.
+		1. Start🏁 typing immediately as you open YouRType.
 	
 		2. You can ignore the inverted comma's and start typing directly the sentence displayed.
 	
@@ -16,9 +17,9 @@
 	
 	        4. There are other two buttons;RESET & SWITCH-UP. 
 	
-		5. RESET button will clear all the words you have typed in entry bar.
+		5. RESET↩️ button will clear all the words you have typed in entry bar.
 	
-		6. SWITCH-UP button will choose another sentence if you don't like the choosen sentence by the YouRType.
+		6. SWITCH-UP🔀 button will choose another sentence if you don't like the choosen sentence by the YouRType.
 	
 		7. Most IMPORTANT!!! YOU HAVE ONLY ONE CHANCE.
 	
