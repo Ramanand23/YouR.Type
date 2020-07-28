@@ -1,9 +1,9 @@
-# **YouRType**
+  #                                       🕹  ⌨️  **YouRType**  ⌨️  🕹
 ## ◼︎ Typing Speed Test Using Tkinter package in PYTHON ◼︎
 
- ## ✱✱✱Instructions for YouRType!!!✱✱✱
- 
- ### ▸ How to use:
+ ##   ⏳ Instructions for YouRType ⏳
+
+ ###  📌 How to use:
  
 		1. Start typing immediately as you open YouRType.
 	
@@ -21,5 +21,5 @@
 	
 		8. So, Keep typing and enjoy YouRType!😉		
 
-► ADDITIONALLY:
-    ☞ If its showing error then change the path where the input of sentences.txt & icon.png is saved in your system.   
+###  📌  ADDITIONALLY:
+               If its showing error then change the path where the input of sentences.txt & icon.png is saved in your system.   
