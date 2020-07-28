@@ -9,7 +9,7 @@
 	
 		2. You can ignore the inverted comma's and start typing directly the sentence displayed.
 	
-		3. When you done typing the sentence hit the button RESULT. It will show you the Total words,Time Taken &                      Speed.                     
+		3. When you done typing the sentence hit the button RESULT. It will show you the Total words,Time Taken & Speed.                     
 	
 	        4. There are other two buttons;RESET & SWITCH-UP. 
 	
