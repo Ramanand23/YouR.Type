@@ -1,11 +1,11 @@
   #                                       🕹   **YouRType**    🕹
-
+![YouRTyp GIF]()
 ##      What is YouRType?
-###   👉🏻 Typing Speed Test Using Tkinter package in PYTHON.
+####  👉🏻 Typing Speed Test Using Tkinter package in PYTHON.
 
-##   ⏳    Instructions for YouRType 
+###   ⏳    Instructions for YouRType 
 
- ###  📌 HOW TO USE:
+ ####  📌 HOW TO USE:
  
 		1. Start typing immediately as you open YouRType.
 	
@@ -23,5 +23,5 @@
 	
 		8. So, Keep typing and enjoy YouRType!😉		
 
-###  📌  ADDITIONALLY:
+####  📌  ADDITIONALLY:
                If its showing error then change the path where the input of sentences.txt & icon.png is saved in your system.   
