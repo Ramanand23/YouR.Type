@@ -6,6 +6,8 @@
 
 ###  👉🏻 YouR.Type is a typing speed test program made using Tkinter package in PYTHON.It is useful to measure the typing speed of the user in terms of POOR,AVERAGE & EXCELLENT remarks and has a rich set of sentences to do typing practice and learn to type fast.
 
+###   **NOTE**:Tkinter is the standard GUI library for Python. Python when combined with Tkinter provides a fast and easy way to create GUI applications. Tkinter  provides a powerful object-oriented interface to the Tk GUI toolkit.
+      
 ##   ⏳    Instructions for YouR.Type 
 
  ####  📌 HOW TO USE:
